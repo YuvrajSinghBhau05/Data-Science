@@ -1,2 +1,1 @@
-just a time pass data science project\
-over to you all
+analysed a csv netflix file using machine learning
